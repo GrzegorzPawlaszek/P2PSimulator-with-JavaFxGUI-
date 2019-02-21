@@ -1,0 +1,4 @@
+1. Dodać przesyłanie plikó za pomocą UDP
+2. Prezentacja plików za pomocą listy
+3. Dołączenie modułu bazy danych z listą obecnie dostępnych hostów
+4. Automatyczne przydzielanie wolnego portu przez system.
